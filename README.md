@@ -2,6 +2,7 @@ Este é um script batch (Windows) que automatiza diversas operações do Nmap at
 Observação: É necessário previamente instalar o NMAP em sua maquina para executar os comandos que este Menu oferece.
 
 🛠️ Funcionalidades
+
 ✅ Descobrir hosts ativos na rede (scan simples)
 
 ✅ Verificar portas abertas (range 1-1000)
