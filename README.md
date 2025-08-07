@@ -1,6 +1,5 @@
-README - NMAP TEST Tool by Gabriel Fagundes
-📌 Descrição
 Este é um script batch (Windows) que automatiza diversas operações do Nmap através de um menu interativo. Permite realizar desde scans básicos de rede até análises avançadas de vulnerabilidades.
+Observação: É necessário previamente instalar o NMAP em sua maquina para executar os comandos que este Menu oferece.
 
 🛠️ Funcionalidades
 ✅ Descobrir hosts ativos na rede (scan simples)
@@ -55,6 +54,5 @@ Scans avançados podem ser detectados por sistemas de segurança
 Free to use - Desenvolvido por Gabriel Fagundes
 
 📧 Contato
-[Seu e-mail ou outras informações de contato]
+gabriel_oliveira.fagundes@hotmail.com
 
-Nota: Este script é fornecido "como está". O autor não se responsabiliza por qualquer uso indevido
